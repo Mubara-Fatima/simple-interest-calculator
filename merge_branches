@@ -1,0 +1,8 @@
+theia@theia-mubarafatima:/home/project/git-practice$ git checkout main
+Already on 'main'
+theia@theia-mubarafatima:/home/project/git-practice$ git merge bug-fix-typo
+Already on 'main'
+Updating de29018..a819537
+Fast-forward
+ sample.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
